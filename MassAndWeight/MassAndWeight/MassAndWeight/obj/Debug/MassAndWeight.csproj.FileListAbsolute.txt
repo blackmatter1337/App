@@ -1,0 +1,27 @@
+c:\users\student\documents\visual studio 2015\Projects\MassAndWeight\MassAndWeight\bin\Debug\MassAndWeight.exe.config
+c:\users\student\documents\visual studio 2015\Projects\MassAndWeight\MassAndWeight\bin\Debug\MassAndWeight.exe
+c:\users\student\documents\visual studio 2015\Projects\MassAndWeight\MassAndWeight\bin\Debug\MassAndWeight.pdb
+c:\users\student\documents\visual studio 2015\Projects\MassAndWeight\MassAndWeight\obj\Debug\MassAndWeight.csprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2015\Projects\MassAndWeight\MassAndWeight\obj\Debug\MassAndWeight.Form1.resources
+c:\users\student\documents\visual studio 2015\Projects\MassAndWeight\MassAndWeight\obj\Debug\MassAndWeight.Properties.Resources.resources
+c:\users\student\documents\visual studio 2015\Projects\MassAndWeight\MassAndWeight\obj\Debug\MassAndWeight.csproj.GenerateResource.Cache
+c:\users\student\documents\visual studio 2015\Projects\MassAndWeight\MassAndWeight\obj\Debug\MassAndWeight.exe
+c:\users\student\documents\visual studio 2015\Projects\MassAndWeight\MassAndWeight\obj\Debug\MassAndWeight.pdb
+C:\Users\Student\Downloads\MassAndWeight\MassAndWeight\MassAndWeight\bin\Debug\MassAndWeight.exe.config
+C:\Users\Student\Downloads\MassAndWeight\MassAndWeight\MassAndWeight\obj\Debug\MassAndWeight.exe
+C:\Users\Student\Downloads\MassAndWeight\MassAndWeight\MassAndWeight\obj\Debug\MassAndWeight.pdb
+C:\Users\Student\Downloads\MassAndWeight\MassAndWeight\MassAndWeight\bin\Debug\MassAndWeight.exe
+C:\Users\Student\Downloads\MassAndWeight\MassAndWeight\MassAndWeight\bin\Debug\MassAndWeight.pdb
+C:\Users\Student\Downloads\MassAndWeight\MassAndWeight\MassAndWeight\obj\Debug\MassAndWeight.csprojResolveAssemblyReference.cache
+C:\Users\Student\Downloads\MassAndWeight\MassAndWeight\MassAndWeight\obj\Debug\MassAndWeight.Form1.resources
+C:\Users\Student\Downloads\MassAndWeight\MassAndWeight\MassAndWeight\obj\Debug\MassAndWeight.Properties.Resources.resources
+C:\Users\Student\Downloads\MassAndWeight\MassAndWeight\MassAndWeight\obj\Debug\MassAndWeight.csproj.GenerateResource.Cache
+E:\MassAndWeight\MassAndWeight\MassAndWeight\bin\Debug\MassAndWeight.exe.config
+E:\MassAndWeight\MassAndWeight\MassAndWeight\obj\Debug\MassAndWeight.exe
+E:\MassAndWeight\MassAndWeight\MassAndWeight\obj\Debug\MassAndWeight.pdb
+E:\MassAndWeight\MassAndWeight\MassAndWeight\bin\Debug\MassAndWeight.exe
+E:\MassAndWeight\MassAndWeight\MassAndWeight\bin\Debug\MassAndWeight.pdb
+E:\MassAndWeight\MassAndWeight\MassAndWeight\obj\Debug\MassAndWeight.csprojResolveAssemblyReference.cache
+E:\MassAndWeight\MassAndWeight\MassAndWeight\obj\Debug\MassAndWeight.Form1.resources
+E:\MassAndWeight\MassAndWeight\MassAndWeight\obj\Debug\MassAndWeight.Properties.Resources.resources
+E:\MassAndWeight\MassAndWeight\MassAndWeight\obj\Debug\MassAndWeight.csproj.GenerateResource.Cache

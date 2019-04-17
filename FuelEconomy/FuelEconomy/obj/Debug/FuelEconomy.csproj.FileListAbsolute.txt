@@ -1,0 +1,9 @@
+c:\users\student\documents\visual studio 2015\Projects\FuelEconomy\FuelEconomy\bin\Debug\FuelEconomy.exe.config
+c:\users\student\documents\visual studio 2015\Projects\FuelEconomy\FuelEconomy\bin\Debug\FuelEconomy.exe
+c:\users\student\documents\visual studio 2015\Projects\FuelEconomy\FuelEconomy\bin\Debug\FuelEconomy.pdb
+c:\users\student\documents\visual studio 2015\Projects\FuelEconomy\FuelEconomy\obj\Debug\FuelEconomy.csprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2015\Projects\FuelEconomy\FuelEconomy\obj\Debug\FuelEconomy.Form1.resources
+c:\users\student\documents\visual studio 2015\Projects\FuelEconomy\FuelEconomy\obj\Debug\FuelEconomy.Properties.Resources.resources
+c:\users\student\documents\visual studio 2015\Projects\FuelEconomy\FuelEconomy\obj\Debug\FuelEconomy.csproj.GenerateResource.Cache
+c:\users\student\documents\visual studio 2015\Projects\FuelEconomy\FuelEconomy\obj\Debug\FuelEconomy.exe
+c:\users\student\documents\visual studio 2015\Projects\FuelEconomy\FuelEconomy\obj\Debug\FuelEconomy.pdb
