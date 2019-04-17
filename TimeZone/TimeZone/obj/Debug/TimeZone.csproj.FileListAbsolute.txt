@@ -1,0 +1,9 @@
+E:\TimeZone\TimeZone\bin\Debug\TimeZone.exe.config
+E:\TimeZone\TimeZone\bin\Debug\TimeZone.exe
+E:\TimeZone\TimeZone\bin\Debug\TimeZone.pdb
+E:\TimeZone\TimeZone\obj\Debug\TimeZone.csprojResolveAssemblyReference.cache
+E:\TimeZone\TimeZone\obj\Debug\TimeZone.Form1.resources
+E:\TimeZone\TimeZone\obj\Debug\TimeZone.Properties.Resources.resources
+E:\TimeZone\TimeZone\obj\Debug\TimeZone.csproj.GenerateResource.Cache
+E:\TimeZone\TimeZone\obj\Debug\TimeZone.exe
+E:\TimeZone\TimeZone\obj\Debug\TimeZone.pdb

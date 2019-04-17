@@ -1,0 +1,9 @@
+E:\SoftwareSales\SoftwareSales\bin\Debug\SoftwareSales.exe.config
+E:\SoftwareSales\SoftwareSales\bin\Debug\SoftwareSales.exe
+E:\SoftwareSales\SoftwareSales\bin\Debug\SoftwareSales.pdb
+E:\SoftwareSales\SoftwareSales\obj\Debug\SoftwareSales.csprojResolveAssemblyReference.cache
+E:\SoftwareSales\SoftwareSales\obj\Debug\SoftwareSales.Form1.resources
+E:\SoftwareSales\SoftwareSales\obj\Debug\SoftwareSales.Properties.Resources.resources
+E:\SoftwareSales\SoftwareSales\obj\Debug\SoftwareSales.csproj.GenerateResource.Cache
+E:\SoftwareSales\SoftwareSales\obj\Debug\SoftwareSales.exe
+E:\SoftwareSales\SoftwareSales\obj\Debug\SoftwareSales.pdb
